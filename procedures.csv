@@ -1,0 +1,5 @@
+provider_id,provider_name,practice,region,specialty,procedure,procedure_date
+101,Dr. Amit,Clinic A,Mumbai,Cardiology,ECG,1/10/2024
+102,Dr. Neha,Clinic B,Pune,Dermatology,Skin Test,1/11/2024
+101,Dr. Amit,Clinic A,Mumbai,Cardiology,Angiography,1/12/2024
+103,Dr. Raj,Clinic C,Delhi,Orthopedic,X-Ray,1/12/2024
